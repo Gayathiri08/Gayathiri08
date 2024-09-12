@@ -1,5 +1,5 @@
 
-# gayathiri_s_application3
+# gayathiri_application
 ### Table of contents
 - [System requirements](#system-requirements)
 - [Figma design guidelines for better UI accuracy](#figma-design-guideline-for-better-accuracy)
