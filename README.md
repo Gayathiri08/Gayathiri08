@@ -1,18 +1,25 @@
 ## Hello everyone! I'm Gayathiri 👋
 ## ⭐ About me
 I am a Electrical undergraduate student at IIT Jodhpur with a deep passion for Machine Learning and Web Development. I enjoy working on projects that involve implementation and learning through hands-on experience. My GitHub portfolio showcases my skills in various programming languages, including React, Node, Python, C++, MATLAB, and more..
-- 💬 Ask me about
- ##  DSA, Machine Learning, Web Dev, App Development, etc.
-## -📫 How to reach me: 
+ ## Skills
+Here's an overview of my skill set:
+
+Programming Languages: Python, C/C++, MySQL 
+Web Development: ReactJS, HTML, CSS, JavaScript, NodeJS, Typescript
+Machine Learning and Deep Learning frameworks: Pytorch, TensorFlow, Sklearn
+Data Visualization: Matplotlib, Seaborn, Plotly.
+## - 💬 Ask me about
+DSA, Machine Learning, Web Dev, App Development, etc.
+ ## -📫 How to reach me 
 If you have any questions, collaboration opportunities, or simply want to reach out, feel free to connect with me:
 - 📧 Email: b22ee017@iitj.ac.in
 - 💼 LinkedIn: gayathiri-b-s 
 ## Skills
 Here's an overview of my skill set:
 
-Programming Languages: Python, C/C++, MySQL 
-Web Development: ReactJS, HTML, CSS, JavaScript, NodeJS, Typescript
-Machine Learning and Deep Learning frameworks: Pytorch, TensorFlow, Sklearn
+Programming Languages: Python, C/C++, MySQL. 
+Web Development: ReactJS, HTML, CSS, JavaScript, NodeJS, Typescript.
+Machine Learning and Deep Learning frameworks: Pytorch, TensorFlow, Sklearn.
 Data Visualization: Matplotlib, Seaborn, Plotly.
 
 <!--
