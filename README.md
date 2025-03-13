@@ -4,9 +4,10 @@ I am a Electrical undergraduate student at IIT Jodhpur with a deep passion for M
  ## Skills
 Here's an overview of my skill set:
 
-- Programming Languages: Python, C/C++, MySQL 
+- Programming Languages: Python, C/C++, MySQL, Dart, Matlab 
 - Web Development: ReactJS, HTML, CSS, JavaScript, NodeJS, Typescript
-- Machine Learning and Deep Learning frameworks: Pytorch, TensorFlow, Sklearn
+- Frameworks: Flutter, Django
+- Machine Learning and Deep Learning frameworks: Pytorch, TensorFlow, Sklearn, Hugging Face, OpenCV
 - Data Visualization: Matplotlib, Seaborn, Plotly.
 ## - 💬 Ask me about
 DSA, Machine Learning, Web Dev, App Development, etc.
