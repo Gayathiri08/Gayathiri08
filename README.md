@@ -13,7 +13,7 @@ Here's an overview of my skill set:
 DSA, Machine Learning, Web Dev, App Development, etc.
  ## -📫 How to reach me 
 If you have any questions, collaboration opportunities, or simply want to reach out, feel free to connect with me:
-- 📧 Email: b22ee017@iitj.ac.in
+- 📧 Email: gayathiri7924@gmail.com
 - 💼 LinkedIn: gayathiri-b-s 
 
 Thank you for taking the time to visit my GitHub profile and reading this README! I am excited to continue learning, exploring, and contributing to the world of ML and Web Development. Let's connect and collaborate!
